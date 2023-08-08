@@ -1,0 +1,6 @@
+jax-lorax==0.1.0
+jax-gptq @ git+https://github.com/davisyoshida/jax-gptq.git@d90acd90c650b298dd493eae5bf9811686c98ad1
+jax==0.4.14
+optax
+tqdm
+transformers
